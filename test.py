@@ -1,2 +1,2 @@
 print "python code"
-print "masik"
+print "inkabb egyik"
